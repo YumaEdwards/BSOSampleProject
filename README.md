@@ -1,0 +1,2 @@
+# BSOSampleProject
+BinaryScriptableObjectのUnityサンプルプロジェクト
