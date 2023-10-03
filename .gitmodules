@@ -1,0 +1,3 @@
+[submodule "Assets/Editor/BinaryScriptableObject"]
+	path = Assets/Editor/BinaryScriptableObject
+	url = git@github.com:YumaEdwards/BinaryScriptableObject.git
