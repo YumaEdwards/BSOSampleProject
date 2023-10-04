@@ -30,7 +30,8 @@ namespace Yuma.Editor.Bso
         //↓データクラス関連
         
         /// <summary>
-        /// 
+        /// シリアライズテスト用設定データ<br />
+        /// ※オリジナルクラス作成サンプル。
         /// </summary>
         [Serializable]
         public class InnerTestSettingData
