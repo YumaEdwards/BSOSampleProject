@@ -11,7 +11,7 @@ BinaryScriptableObjectのUnityサンプルプロジェクト。
 UnityのメニューバーのTest→BsoTestWindowで起動できます。  
 起動したら、下記画像の赤枠内の設定を好きなように弄って、  
 画面下部（緑枠）の各種ボタンを押して、動作を確認してください。  
-<img width="600" src="https://raw.githubusercontent.com/YumaEdwards/BSOSampleProject/feature/UpdateReadme/DocumentAssets/HowToUse/img_20231004_00.png">  
+<img width="600" src="https://raw.githubusercontent.com/YumaEdwards/BSOSampleProject/develop/DocumentAssets/HowToUse/img_20231004_00.png">  
 ※現状、循環参照に関する問題がある為、  
 　BsoTestSetting設定アセットとバイナリ設定アセットはセットしないようにしてください。  
 　将来的に修正を行いますので、しばらくの間、  
@@ -21,7 +21,7 @@ UnityのメニューバーのTest→BsoTestWindowで起動できます。
 保存状態の確認は簡易的になりますが、下記設定アセットでご確認ください。  
 `Assets/Editor/BsoTestWindow/_Resource/BsoTestSetting.asset`  
 この設定アセットを選択しながら、確認用ツールで読み書きを行うことで保存状態を確認できます。  
-<img width="600" src="https://raw.githubusercontent.com/YumaEdwards/BSOSampleProject/feature/UpdateReadme/DocumentAssets/HowToUse/img_20231004_01.png">  
+<img width="600" src="https://raw.githubusercontent.com/YumaEdwards/BSOSampleProject/develop/DocumentAssets/HowToUse/img_20231004_01.png">  
 
 ## ■サンプルスクリプトのコードについて
 サンプルスクリプトのコードは下記に保存されています。  
